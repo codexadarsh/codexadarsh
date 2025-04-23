@@ -1,5 +1,5 @@
 # 💫 About Me:
-Nothing... here i write code sometimes
+Nothing here, I write code sometimes...
 
 
 ## 🌐 Socials:
