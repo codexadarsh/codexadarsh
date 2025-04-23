@@ -1,5 +1,5 @@
 # 💫 About Me:
-Creative and detail-oriented Frontend Developer with a strong foundation in HTML, CSS, JavaScript, and modern frameworks like React and Vue.js. Passionate about crafting responsive, user-friendly interfaces and improving user experiences through clean, efficient code. Experienced in collaborating with cross-functional teams and turning design concepts into functional digital products.<br><br>
+Nothing... here i write code sometimes
 
 
 ## 🌐 Socials:
